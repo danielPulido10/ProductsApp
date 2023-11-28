@@ -12,7 +12,7 @@ final class HomeModule {
     static func create() -> HomeViewController {
         let view = HomeViewController()
         
-        var presenter: HomePresenterProtocol = HomePresenter()
+        let presenter: HomePresenterProtocol = HomePresenter()
         
         let router = HomeRouter()
         router.viewController = view
