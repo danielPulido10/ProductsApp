@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  ProductsApp
+
+  Created by Daniel Alejandro Pulido Sepulveda on 22/11/23.
+  
+*/
+
+// Home
+"home.title" = "Hola, ¿cómo estás?";
+"home.description" = "Estamos emocionados de ayudarte, ingresa el producto que estas buscando";
+"home.searchProducts" = "Buscar productos";
+
+// Products
+"products.description" = "Ingresa el nombre del producto que necesitas y nosotros lo buscaremos en toda nuestra red.";
+"products.withoutPrice" = "¡Sin precio!";
+"products.price" = "Precio:";
+"products.searchPlaceholder" = "Ingresa el producto";
+
+// Products Detail
+"productDetail.country" = "País de venta:";
+"productDetail.city" = "Ciudad de venta:";
+"productDetail.nickname" = "Usuario del vendedor:";
+
+// Error
+"error.general" = "Lo sentimos, ocurrió un error, inténtalo nuevamente.";
+"error.empty" = "Lo sentimos, no encontramos el producto que estás buscando. Intenta con otro, seguro que lo tenemos.";
